@@ -1,2 +1,2 @@
 # CrackingTheCodingInterview
-Going through the book solving the questions
+Goal is to make it through as many questions as possible. Each solution will have a unit test file that I am have created to make sure the solution is correct.
